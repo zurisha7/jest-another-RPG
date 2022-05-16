@@ -1,0 +1,28 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Small RPG game",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zurisha7/jest-another-RPG.git"
+  },
+  "author": "Andrea West",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zurisha7/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/zurisha7/jest-another-RPG#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
